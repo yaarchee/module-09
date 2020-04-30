@@ -15,17 +15,19 @@
     }
 
 }
-@media (min-width: 768px) and (max-width: 941px){
+@media (min-width: 768px) and (max-width: 939px){
     .container {
         padding: 0 48px;
     }
     .partner-list {
-        padding: 0 42px;
+
          margin-bottom: 0;
     }
     .partner-list__item {
         margin-bottom: 46px;
     }
+
+
 
 
 }
@@ -74,7 +76,7 @@
     }
 
 }
-@media (min-width: 942px){
+@media (min-width: 940px){
     .main-header {
         background-image:linear-gradient(rgba(10, 5, 0, 0.25), rgba(10, 5, 0, 0.25)), url("../img/bcgd.jpg");
 
@@ -89,6 +91,13 @@
         flex: 0 0 25%;
         max-width: 25%;
     }
+
+    .col-lg-12 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
 
 
 
