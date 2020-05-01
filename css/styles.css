@@ -166,6 +166,9 @@ p, ul, h1, h2, h3, h4{
     position: relative;
     margin-bottom: 18px;
 }
+.partner-list__logo img{
+    border-radius: 50%;
+}
 
 .partner-list__logo::after{
     position: absolute;
