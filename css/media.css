@@ -51,8 +51,6 @@
 
 
     .main-nav {
-        justify-content: space-between;
-        align-items: center;
         margin-bottom: 140px;
     }
     .main-nav__buttons {
