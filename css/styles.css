@@ -42,7 +42,8 @@ p, ul, h1, h2, h3, h4{
 }
 
 .main-header{
-    background-image: linear-gradient(rgba(10, 5, 0, 0.25), rgba(10, 5, 0, 0.25)), url("../img/bcgm.jpg");
+    background-image:  url("../img/bcgm.png");
+    background-color: #1a1915;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

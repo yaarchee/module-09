@@ -11,7 +11,7 @@
 
 @media (min-width: 321px) {
     .main-header{
-        background-image: linear-gradient(rgba(10, 5, 0, 0.25), rgba(10, 5, 0, 0.25)), url("../img/bcgm.jpg");
+        background-image:url("../img/bcgm.png");
     }
 }
 
@@ -80,7 +80,7 @@
 }
 @media (min-width: 940px){
     .main-header {
-        background-image:linear-gradient(rgba(10, 5, 0, 0.25), rgba(10, 5, 0, 0.25)), url("../img/bcgd.jpg");
+        background-image: url("../img/bcgd.png");
 
     }
 
